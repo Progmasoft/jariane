@@ -30,6 +30,7 @@ No code is written yet; the first version of JAriane follows the first release o
 | [Progmasoft/jariane](https://github.com/Progmasoft/jariane), JAriane | Java 21+ and the JVM 21+ languages with Java interop |
 | [Progmasoft/arianekt](https://github.com/Progmasoft/arianekt), ArianeKt | Kotlin/JVM 25+ |
 | [Progmasoft/ariane.net](https://github.com/Progmasoft/ariane.net), Ariane.NET | the .NET 8+ languages |
+| [Progmasoft/hariane](https://github.com/Progmasoft/hariane), Hariane | Haskell, GHC 9.6+ |
 
 ## License
 
